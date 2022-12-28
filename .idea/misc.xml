@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_inicio_sesion.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/carga.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/layout/fragment_acer_de_cliente.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/menu/menu_admin.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/MyApplication3/app/src/main/res/menu/menu_cliente.xml" value="0.11302083333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.16760864257812502" />
+        <entry key="app/src/main/res/layout/activity_main_administrador.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/carga.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/encabezado.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_acer_de_cliente.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_compartir_cliente.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_incio_cliente.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_inicio_admin.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_lista_admin.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_perfil_admin.xml" value="0.24479166666666666" />
+        <entry key="app/src/main/res/layout/fragment_registrar_admin.xml" value="0.24479166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
